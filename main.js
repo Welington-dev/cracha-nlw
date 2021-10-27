@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'welingtonkg',
   youtube: 'welingtonkg',
   facebook: 'welington ap',
-  instagram: 'welingtonk',
+  instagram: 'welingtonkg',
   twitter: 'welingtonkg'
 }
 function changeSocialMediaLinks() {
